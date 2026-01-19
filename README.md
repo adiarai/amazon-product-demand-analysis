@@ -1,3 +1,4 @@
+<img width="1156" height="640" alt="adil 1" src="https://github.com/user-attachments/assets/c088f8a0-f658-44f0-936a-438b6f48fce6" />
 <img width="1343" height="673" alt="Keepa-Charts" src="https://github.com/user-attachments/assets/aee36810-98a5-4860-b3a3-2f077ac0774f" />
 # amazon-product-demand-analysis
 Data-driven analysis of Amazon product demand, competition, and pricing to support product selection and business decisions for a private-label e-commerce business (Khareeds LLC).
